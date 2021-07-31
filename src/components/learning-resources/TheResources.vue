@@ -38,7 +38,7 @@ export default {
         {
           id: 'google',
           title: 'Google',
-          description: 'The Google documentation',
+          description: 'Learn how to google...',
           link: 'https://google.com',
         },
       ],
